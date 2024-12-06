@@ -1,5 +1,5 @@
 # Setup
-title: HJHSudo
+title: Han Junhui
 description: Bien étudier.
 url: https://hjhsudo.github.io
 avatar: /images/tx.jpg
@@ -33,7 +33,7 @@ twitter:
   card: 
 logo: /images/tx.jpg
 social:
-  name: HJHSudo
+  name: Han Junhui
   links:
     - https://github.com/hjhsudo/
 google_site_verification: 
@@ -53,6 +53,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: HJHSudo
+  name: Han Junhui
   url: /about
   email: josephhan059@qq.com
